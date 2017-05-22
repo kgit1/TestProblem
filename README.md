@@ -14,31 +14,31 @@ executed from files root directory
 add, list, clear, total, currencies, exchangeRates, help, exit
 
 add 2017-04-25 12 USD Jogurt  
-adds expences entry to the list of user expences. Expences for various dates could be added in any order. Command accepts following parameters:
+ -- adds expences entry to the list of user expences. Expences for various dates could be added in any order. Command accepts following parameters:
 2017-04-25 - is the date when expences occured(choose date between 2000-2050)
 12 - is an amount of money spent
 USD - the currency in which expense occured
 Jogurt - is the name of product purchased (allows products name up to 29 symbols)
 
 list
-shows the list of all expenses sorted by date
+ -- shows the list of all expenses sorted by date
 
 clear 2017-04-25
-removes all expenses for specified date, where 
+ -- removes all expenses for specified date, where 
 2017-04-25 - is the date on which expenses should be removed
 
 total PLN
-this command calculates the total amount of money spent and present it to use in specified currency, where
+ -- this command calculates the total amount of money spent and present it to use in specified currency, where
 PLN - is the currency in which total amoun of expenses shoul be presented
 
 currencies
-list of currencies you can use in programm
+ -- list of currencies you can use in programm
 
 exchangeRates
-exchange rates of available currencies
+ -- exchange rates of available currencies
 
 help
-presents list of available commands
+ -- presents list of available commands
 
 exit
-stops programm 
+ -- stops programm 
