@@ -1,6 +1,6 @@
 # TestProblem
 Personal expenses management application that allows users to track how much money have they spent.
-(Little changed output formating to be little clear and show only entered date expenses on use of add command, 
+(Little changed output formating to be more clear and show only entered date expenses on use of add command, 
 only list command shows all expenses for all dates.
 And currencies exchange rates are requested only at application start, not every time on total command execute)
 
