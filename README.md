@@ -11,7 +11,7 @@ java -jar TestProblem.jar
 executed from files root directory
 
 # List of commands  
-add, list, clear, total, currencies, help, exchangeRates, exit
+add, list, clear, total, currencies, exchangeRates, help, exit
 
 add 2017-04-25 12 USD Jogurt  
 adds expences entry to the list of user expences. Expences for various dates could be added in any order. Command accepts following parameters:
@@ -42,6 +42,3 @@ presents list of available commands
 
 exit
 stops programm 
-
-correct commands format
-add -> add 2017-04-25 12 USD Jogurt
