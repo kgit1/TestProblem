@@ -10,7 +10,7 @@ To run from command line use command:
 java -jar TestProblem.jar
 executed from files root directory
 
-#List of commands 
+# List of commands  
 add, list, clear, total, currencies, help, exchangeRates, exit
 
 add 2017-04-25 12 USD Jogurt  
