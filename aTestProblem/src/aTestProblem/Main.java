@@ -246,8 +246,8 @@ public class Main {
 
 	public static void commandHelp() {
 		System.out.println("===========================================================");
-		System.out.println("Commands: add, list, clear, total, currencies, help, exit");
-		System.out.println("Right commands spelling example");
+		System.out.println("Commands: add, list, clear, total, currencies, exchangeRates, help, exit");
+		System.out.println("Correct commands format example");
 		System.out.println("add 2017-04-25 12 USD Jogurt");
 		System.out.println("list");
 		System.out.println("clear 2017-04-25");
